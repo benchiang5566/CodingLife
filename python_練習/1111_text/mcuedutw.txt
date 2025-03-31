@@ -1,0 +1,11 @@
+   ABC 12
+    DEF 23
+    GHI 34
+    PQO 45
+    RST 56
+    abc 21
+    def 32
+    ghi 43
+    pqo 54
+    rst 65
+
